@@ -1,5 +1,5 @@
 # [RedScope Technologies](https://redscope.github.io/)
-
+![header](https://64.media.tumblr.com/c761aecf12272bba216425b0a0875db1/4477d480fc27fd5a-a0/s1280x1920/e3b130be3242cb83538d7b07c4d453549098a41a.pnj)
 <!--
 
 **Here are some ideas to get you started:**
